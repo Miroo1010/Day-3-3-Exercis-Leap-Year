@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" modified="2022-04-27T16:42:29.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="jKPlwvw6kzaGCgVVA-8X" version="17.4.6" type="github">
+  <diagram id="zZUp1ngPmSZF-AKWgCTn" name="Page-1">
+    <mxGraphModel dx="1220" dy="1152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#283618" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yfQ0AzrIcbxqgw6C5GGn-5" value="NO" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;strokeColor=#DDA15E;fillColor=#BC6C25;labelBackgroundColor=none;" edge="1" parent="1" source="yfQ0AzrIcbxqgw6C5GGn-2" target="yfQ0AzrIcbxqgw6C5GGn-4">
+          <mxGeometry x="-0.3143" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfQ0AzrIcbxqgw6C5GGn-7" value="YES" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;strokeColor=#DDA15E;fillColor=#BC6C25;" edge="1" parent="1" source="yfQ0AzrIcbxqgw6C5GGn-2" target="yfQ0AzrIcbxqgw6C5GGn-6">
+          <mxGeometry x="-0.3684" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfQ0AzrIcbxqgw6C5GGn-2" value="year divisible by 4" style="rhombus;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#FEFAE0;strokeColor=#DDA15E;fillColor=#BC6C25;" vertex="1" parent="1">
+          <mxGeometry x="240" y="50" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yfQ0AzrIcbxqgw6C5GGn-4" value="Not a leap year" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yfQ0AzrIcbxqgw6C5GGn-9" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;strokeColor=#DDA15E;fillColor=#BC6C25;" edge="1" parent="1" source="yfQ0AzrIcbxqgw6C5GGn-6" target="yfQ0AzrIcbxqgw6C5GGn-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yfQ0AzrIcbxqgw6C5GGn-6" value="Further check" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yfQ0AzrIcbxqgw6C5GGn-11" value="NO" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;strokeColor=#DDA15E;fillColor=#BC6C25;" edge="1" parent="1" source="yfQ0AzrIcbxqgw6C5GGn-8" target="yfQ0AzrIcbxqgw6C5GGn-10">
+          <mxGeometry x="-0.3714" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfQ0AzrIcbxqgw6C5GGn-13" value="YES" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;strokeColor=#DDA15E;fillColor=#BC6C25;" edge="1" parent="1" source="yfQ0AzrIcbxqgw6C5GGn-8" target="yfQ0AzrIcbxqgw6C5GGn-12">
+          <mxGeometry x="-0.3714" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfQ0AzrIcbxqgw6C5GGn-8" value="Year divisible by 100" style="rhombus;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="295" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yfQ0AzrIcbxqgw6C5GGn-10" value="Leap year" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yfQ0AzrIcbxqgw6C5GGn-15" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;strokeColor=#DDA15E;fillColor=#BC6C25;" edge="1" parent="1" source="yfQ0AzrIcbxqgw6C5GGn-12" target="yfQ0AzrIcbxqgw6C5GGn-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yfQ0AzrIcbxqgw6C5GGn-12" value="Not a leap year unless..." style="whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yfQ0AzrIcbxqgw6C5GGn-17" value="NO" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;strokeColor=#DDA15E;fillColor=#BC6C25;" edge="1" parent="1" source="yfQ0AzrIcbxqgw6C5GGn-14" target="yfQ0AzrIcbxqgw6C5GGn-16">
+          <mxGeometry x="-0.5217" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfQ0AzrIcbxqgw6C5GGn-19" value="YES" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;strokeColor=#DDA15E;fillColor=#BC6C25;" edge="1" parent="1" source="yfQ0AzrIcbxqgw6C5GGn-14" target="yfQ0AzrIcbxqgw6C5GGn-18">
+          <mxGeometry x="-0.561" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfQ0AzrIcbxqgw6C5GGn-14" value="Year divisible by 400" style="rhombus;whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="585" y="560" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yfQ0AzrIcbxqgw6C5GGn-16" value="Not leap" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="415" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yfQ0AzrIcbxqgw6C5GGn-18" value="Leap year" style="whiteSpace=wrap;html=1;fillColor=#BC6C25;strokeColor=#DDA15E;fontColor=#FEFAE0;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
